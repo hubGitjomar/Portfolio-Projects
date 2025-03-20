@@ -32,4 +32,14 @@ body{
     background-color: #211C84;
     text-decoration: underline;
 }
+.info-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 5em 5rem;
+    height: 10rem;
 
+}
+.info-container .info-profile{
+    height: 10rem;
+}
