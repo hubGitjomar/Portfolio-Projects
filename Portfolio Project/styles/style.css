@@ -26,6 +26,7 @@ body{
 .navbar-container ul a{
     padding: 10px 2rem;
     border-radius: 50%;
+    transition: .3s ease-in-out;
 }
 .navbar-container ul a:hover{
     transition: .3s ease-in-out;
